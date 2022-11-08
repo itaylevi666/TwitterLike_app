@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(52, 58, 64);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+.datetext {
+  font-size:12px;
+  align-self: flex-end;
+ color:rgb(206, 206, 206);
+}
+
+
+
+.datetext1 {
+  font-size:14px;
+  
+ color:rgb(206, 206, 206);
+}
+
+.bg-d{
+  background-color: rgb(52, 58, 64);
+}
+
+
+.pos {
+  top: -120px;
+  left: 18px;
+}
